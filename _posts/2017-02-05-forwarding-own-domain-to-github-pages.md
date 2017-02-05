@@ -50,12 +50,12 @@ After ordering the new domain you have to configure a forwarding to your Github 
 Unfortunatelly I was not able to switch the UI language to English. So the screenshots have German texts. (a ticket was created to GoDaddy).
 
 1. Select the domain to configure  
-![Use my domain](images/20170205.GoDaddy.01.png)
+![Use my domain]({{ site.url }}/images/20170205.GoDaddy.01.png)
 
 2. Connect it with an already existing web site (your Github Page)  
-![Connect](images/20170205.GoDaddy.02.png)
+![Connect]({{ site.url }}/images/20170205.GoDaddy.02.png)
 
 3. Configure the ```A``` entry to point to the IP address of your Github Page and the CNAME for ```www``` to point to the address of your Github page.  
-![Configure entries](images/20170205.GoDaddy.03.png)
+![Configure entries]({{ site.url }}/images/20170205.GoDaddy.03.png)
 
 4. Wait a while (till 1h) to get the update populated

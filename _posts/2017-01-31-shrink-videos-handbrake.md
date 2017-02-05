@@ -49,7 +49,7 @@ With HandBrake it is easy to create and test some presets. I started with the a 
 | Profile        | High            | I don't know. |
 | Level          | 3.1             | Good balance between new features and support for older devices |
 
-![Video Options](images/20170131.HandBrake.01.png)
+![Video Options]({{ site.url }}/images/20170131.HandBrake.01.small.png)
 
 ### Picture Options
 
@@ -59,7 +59,7 @@ With HandBrake it is easy to create and test some presets. I started with the a 
 | Cropping       | no cropping     | all margins to 0 to avoid cropping |
 | Anamorphic     | Off             | My sources aren't anamorphic |
 
-![Picture Options](images/20170131.HandBrake.02.png)
+![Picture Options]({{ site.url }}/images/20170131.HandBrake.02.small.png)
 
 ### Audio Options
 
@@ -69,7 +69,7 @@ In case there are multiple Audio tracks, delete the unwanted.
 |----------------|-----------------|--------|
 | Codec          | AAC Passthru    | Changing the audio format was not necessary. So I keep the original audio track |
 
-![Picture Options](images/20170131.HandBrake.03.png)
+![Picture Options]({{ site.url }}/images/20170131.HandBrake.03.small.png)
 
 Save that preset for later usage. I named that preset ```GoPro zu 960x540```
 
@@ -109,10 +109,10 @@ Usually the shrinked videos have a new size between 10 and 25 percent of the ori
 ## Use OneDrive to keep the hugh originals
 
 At the root level I have created a folder named ```zzz Large Files```.  
-![Folder for large files](images/20170131.OneDrive.01.png)
+![Folder for large files]({{ site.url }}/images/20170131.OneDrive.01.small.png)
 
 In the preferences of OneDrive I exclude this folder from synchronization.  
-![Exclude folder from synchronization](images/20170131.OneDrive.02.png)
+![Exclude folder from synchronization]({{ site.url }}/images/20170131.OneDrive.02.small.png)
 
 Now we can easily move the large originals via web front end from the source folder to the new folder for our large videos. 
 
