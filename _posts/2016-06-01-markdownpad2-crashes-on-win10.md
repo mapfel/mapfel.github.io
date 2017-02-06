@@ -10,7 +10,7 @@ tags : [Markdown, MarkdownPad, Awesomium]
 
 After upgrading to Windows 10 my bloved Markdown editor **MarkdownPad 2** run into troubles with the live preview. It appeared the hint ```This view has crashed!".
 
-![Crash](images/20160601.MarkdownPad2Crash.01.small.png)
+![Crash]({{ site.url }}/images/20160601.MarkdownPad2Crash.01.small.png)
 
 ## Solution
 
