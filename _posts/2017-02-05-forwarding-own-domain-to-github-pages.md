@@ -35,9 +35,15 @@ So for the first phase it is good enough to use Github Pages to host my static c
 
 To use Github Pages as a provider for own blog content it is necessary to create a Git repository for it. Yes, only a Git repository holding the blog content as static web sites is necessary to serve the content.
 
-Create a new repository and name it <your-user-name>.github.io. That's all. Now you have a base to start.
+1. Create a new repository and name it <your-user-name>.github.io. That's all. Now you have a base to start.
 
-Check the state of your Github page in a browser with ```http://<your-user-name>.github.com```.
+2. Check the state of your Github page in a browser with ```http://<your-user-name>.github.com```.
+
+3. Go to the settings of that repository.  
+![Repository Settings]({{ site.url }}/images/20170205.GithubPages.01.small.png)
+
+4. Define your custom domain.  
+![Set Custom Domain]({{ site.url }}/images/20170205.GithubPages.02.small.png)
 
 ## GoDaddy
 
