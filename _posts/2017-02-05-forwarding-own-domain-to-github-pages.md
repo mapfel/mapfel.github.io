@@ -55,7 +55,7 @@ Unfortunatelly I was not able to switch the UI language to English. So the scree
 2. Connect it with an already existing web site (your Github Page)  
 ![Connect]({{ site.url }}/images/20170205.GoDaddy.02.small.png)
 
-3. Configure the ```A``` entry to point to the IP address of your Github Page and the CNAME for ```www``` to point to the address of your Github page.  
-![Configure entries]({{ site.url }}/images/20170205.GoDaddy.03.small.png)
+3. Configure two ```A record``` entries to point to the IP addresses of Github Page (```192.30.252.153``` and ```192.30.252.154```) and the CNAME for ```blog``` to point to the address of your Github page (```http://<your-user-name>.github.com```).  
+![Configure entries]({{ site.url }}/images/20170205.GoDaddy.04.small.png)
 
-4. Wait a while (till 1h) to get the update populated
+4. Wait a while (till 1h) to get the updates populated
